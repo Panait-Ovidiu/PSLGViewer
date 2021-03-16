@@ -3,9 +3,9 @@
 The project was carried out during college. The graphical interface of the application was created using the Javafx library in Java.
 The application allows you to search for any point with two coordinates and locate it in a PSLG using the slab method.
 
-![PSLGViewer1](https://user-images.githubusercontent.com/80470834/111350528-e1647c80-868a-11eb-9b58-c07e788429e9.png)
-![PSLGViewer1](https://user-images.githubusercontent.com/80470834/111350534-e295a980-868a-11eb-8c3c-5783c9bf010c.png)
-![PSLGViewer2](https://user-images.githubusercontent.com/80470834/111350545-e45f6d00-868a-11eb-95b3-d53d5ded2cc8.png)
-![PSLGViewer4](https://user-images.githubusercontent.com/80470834/111350549-e6293080-868a-11eb-90c4-62f8bc2358c5.png)
-![PSLGViewer5](https://user-images.githubusercontent.com/80470834/111350553-e6c1c700-868a-11eb-9d58-915197693aa5.png)
-![PSLGViewer6](https://user-images.githubusercontent.com/80470834/111350559-e7f2f400-868a-11eb-9ca7-072bb4826f8c.png)
+![PSLGViewer1](https://user-images.githubusercontent.com/80470834/111350600-f214f280-868a-11eb-8c72-87c9427ca3d0.png)
+![PSLGViewer2](https://user-images.githubusercontent.com/80470834/111350607-f3deb600-868a-11eb-8404-b77aa5f51742.png)
+![PSLGViewer3](https://user-images.githubusercontent.com/80470834/111350610-f50fe300-868a-11eb-941d-a29364776450.png)
+![PSLGViewer4](https://user-images.githubusercontent.com/80470834/111350613-f6411000-868a-11eb-9da0-8f4a7c505480.png)
+![PSLGViewer5](https://user-images.githubusercontent.com/80470834/111350617-f80ad380-868a-11eb-8888-6a63cc031664.png)
+![PSLGViewer6](https://user-images.githubusercontent.com/80470834/111350621-f93c0080-868a-11eb-84ef-a3f8b5ad695b.png)
